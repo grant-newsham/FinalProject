@@ -6,6 +6,10 @@ This tutorial will help beginners with creating scalable graphics using SVG in H
 
 This tutorials is for beginners of all aspects. It can be for those wanting to enhance the visual appeal of their websites, those just starting in web development, and other students in related fields. 
 
+[Introduciton](Section_1.md)
 
+[Tutorial](Section_2.md)
+
+[Examples](Section_3.md)
 
 
