@@ -57,6 +57,8 @@ A lot to unpack here:
 The new element used: polygon
 The {polygon} element defines a closed shape consisting of a set of connected straight line segments. The last point is connected to the first point.
 
-For the roof I created a triangle by specifying 3 different vertices within the svg container.
+For the roof I created a triangle by specifying 3 different vertices within the svg container. Three straight lines connect at the specified vertices that relate to their 2D coordinates within the container. Connecting them in order of vertex speicified, ulitmately connecting the final one to the first. This can be used for more than just triangles. You can create a many lines as you want to make any shap you desire.
+
+For the rest of the church I used rectangles to create it. I labeled what each set of rectangles was used for. I set their position in the container using the labels x and y. 
 
 
