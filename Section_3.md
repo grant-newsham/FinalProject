@@ -11,3 +11,10 @@ SVG is a popular format for logos and branding because it allows for easy resizi
 
 Animations:
 SVG supports animations, and you can create simple animations using CSS or more complex animations using SMIL 
+
+Responsive Design:
+SVG is great for creating graphics that adapt to different screen sizes and resolutions. This makes it suitable for responsive web design, ensuring that images look good on both large desktop monitors and small mobile screens.
+
+[Title Page](README.md)
+[Introduction](Section_1.md)
+[Tutorial](Section_2.md)
