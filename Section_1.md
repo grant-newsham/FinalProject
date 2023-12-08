@@ -5,3 +5,7 @@ SVG images are defined in a vector graphics format and stored in XML text files.
 SVG allows three types of graphic objects: vector graphic shapes (such as paths consisting of straight lines and curves), bitmap images, and text. Graphical objects can be grouped, styled, transformed and composited into previously rendered objects. 
 
 SVG uses CSS for styling and JavaScript for scripting.
+
+[Title Page](README.md)
+[Tutorial](Section_2.md)
+[Examples](Section_3.md)
