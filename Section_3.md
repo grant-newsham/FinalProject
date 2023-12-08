@@ -10,4 +10,4 @@ Logos and Branding:
 SVG is a popular format for logos and branding because it allows for easy resizing without loss of quality. Many companies use SVG for their logos to ensure a consistent and crisp appearance across various devices.
 
 Animations:
-SVG supports animations, and you can create simple animations using CSS or more complex animations using SMIL (Synchronized Multimedia Integration Language).
+SVG supports animations, and you can create simple animations using CSS or more complex animations using SMIL 
