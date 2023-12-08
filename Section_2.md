@@ -59,6 +59,8 @@ The {polygon} element defines a closed shape consisting of a set of connected st
 
 For the roof I created a triangle by specifying 3 different vertices within the svg container. Three straight lines connect at the specified vertices that relate to their 2D coordinates within the container. Connecting them in order of vertex speicified, ulitmately connecting the final one to the first. This can be used for more than just triangles. You can create a many lines as you want to make any shap you desire.
 
-For the rest of the church I used rectangles to create it. I labeled what each set of rectangles was used for. I set their position in the container using the labels x and y. 
+For the rest of the church I used rectangles to create it. I labeled what each set of rectangles was used for. I set their position in the container using the labels x and y. I then specified their size to create the objects I desired. 
+
+There are so many possibilities with SVGs.
 
 
