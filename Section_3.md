@@ -16,5 +16,7 @@ Responsive Design:
 SVG is great for creating graphics that adapt to different screen sizes and resolutions. This makes it suitable for responsive web design, ensuring that images look good on both large desktop monitors and small mobile screens.
 
 [Title Page](README.md)
+
 [Introduction](Section_1.md)
+
 [Tutorial](Section_2.md)
