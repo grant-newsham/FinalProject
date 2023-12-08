@@ -63,4 +63,9 @@ For the rest of the church I used rectangles to create it. I labeled what each s
 
 There are so many possibilities with SVGs.
 
+[Title Page](README.md)
+
+[Introduction](Section_1.md)
+
+[Examples](Section_3.md)
 
