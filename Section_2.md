@@ -1,13 +1,16 @@
 How to create an SVG within HTML
 
-This is the utmost basic code for inserting a filled-in rectangle using html
+This is the utmost basic code for inserting a filled-in rectangle using html. (Note: I use {} instead of <> for visualization purposes)
 
-<!DOCTYPE html>
-<html>
- <svg width="100" height="50"> 
-  <rect width="100" height="50" fill="blue" />
- </svg>
-</html>
+{html}
+
+ {svg width="100" height="50"}
+ 
+  {rect width="100" height="50" fill="blue" /}
+  
+ {/svg}
+ 
+{/html}
 
 This produces a container with the width of 100 units and a height of 50 units. This is required everytime to set the parameters of your container. 
 
