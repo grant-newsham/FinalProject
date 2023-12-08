@@ -25,22 +25,31 @@ There are more ways to expand and enhance the triangle beyond fill and stroke.
 Now onto a more complicated tutorial that utilizes multiple elements. This is how to combine elements to make a church:
 
 {svg width="200" height="200"}
+
   {!-- Church Building --}
+  
   {rect x="50" y="50" width="100" height="100" fill="tan" /}
 
   {!-- Roof (triangle/polygon) --}
+  
   {polygon points="50,50 100,10 150,50" fill="brown" /}
 
   {!-- Cross --}
+  
   {rect x="95" y="35" width="10" height="50" fill="gray" /}
+  
   {rect x="85" y="45" width="30" height="10" fill="gray" /}
 
   {!-- Door --}
+  
   {rect x="80" y="100" width="40" height="50" fill="brown" /}
 
   {!-- Windows --}
+  
   {rect x="60" y="60" width="20" height="20" fill="yellow" /}
+  
   {rect x="120" y="60" width="20" height="20" fill="yellow" /}
+  
 {/svg}
 
 A lot to unpack here:
