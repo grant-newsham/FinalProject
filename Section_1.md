@@ -7,5 +7,7 @@ SVG allows three types of graphic objects: vector graphic shapes (such as paths 
 SVG uses CSS for styling and JavaScript for scripting.
 
 [Title Page](README.md)
+
 [Tutorial](Section_2.md)
+
 [Examples](Section_3.md)
